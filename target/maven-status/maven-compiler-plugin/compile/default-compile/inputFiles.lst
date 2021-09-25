@@ -1,0 +1,10 @@
+/Users/manaranjansaren/Desktop/LoginAndUserAuthentication/loginandregistration/src/main/java/com/loginandregistration/loginandregistration/services/Userservice.java
+/Users/manaranjansaren/Desktop/LoginAndUserAuthentication/loginandregistration/src/main/java/com/loginandregistration/loginandregistration/Dto/registrationdto.java
+/Users/manaranjansaren/Desktop/LoginAndUserAuthentication/loginandregistration/src/main/java/com/loginandregistration/loginandregistration/Controller/UserController.java
+/Users/manaranjansaren/Desktop/LoginAndUserAuthentication/loginandregistration/src/main/java/com/loginandregistration/loginandregistration/Controller/MainController.java
+/Users/manaranjansaren/Desktop/LoginAndUserAuthentication/loginandregistration/src/main/java/com/loginandregistration/loginandregistration/model/User.java
+/Users/manaranjansaren/Desktop/LoginAndUserAuthentication/loginandregistration/src/main/java/com/loginandregistration/loginandregistration/model/Role.java
+/Users/manaranjansaren/Desktop/LoginAndUserAuthentication/loginandregistration/src/main/java/com/loginandregistration/loginandregistration/repository/UserRepository.java
+/Users/manaranjansaren/Desktop/LoginAndUserAuthentication/loginandregistration/src/main/java/com/loginandregistration/loginandregistration/services/Userserviceimpl.java
+/Users/manaranjansaren/Desktop/LoginAndUserAuthentication/loginandregistration/src/main/java/com/loginandregistration/loginandregistration/LoginandregistrationApplication.java
+/Users/manaranjansaren/Desktop/LoginAndUserAuthentication/loginandregistration/src/main/java/com/loginandregistration/loginandregistration/Config/securityconf.java

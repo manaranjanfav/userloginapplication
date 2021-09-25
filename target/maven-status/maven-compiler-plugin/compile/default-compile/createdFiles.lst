@@ -1,0 +1,10 @@
+com/loginandregistration/loginandregistration/repository/UserRepository.class
+com/loginandregistration/loginandregistration/Controller/MainController.class
+com/loginandregistration/loginandregistration/services/Userserviceimpl.class
+com/loginandregistration/loginandregistration/model/Role.class
+com/loginandregistration/loginandregistration/Controller/UserController.class
+com/loginandregistration/loginandregistration/LoginandregistrationApplication.class
+com/loginandregistration/loginandregistration/model/User.class
+com/loginandregistration/loginandregistration/services/Userservice.class
+com/loginandregistration/loginandregistration/Config/securityconf.class
+com/loginandregistration/loginandregistration/Dto/registrationdto.class
